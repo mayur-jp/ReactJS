@@ -1,11 +1,6 @@
 
 # Harry Potter Character List
 
-A JSON-based API for getting information on Harry Potter characters and spells.
-
-Hosted at https://hp-api.onrender.com/
-(Heroku free hosting tier support ended on November 28, 2022, as announced here)
-
 ## Prerequisites
 
 ### Install Node JS
@@ -53,7 +48,9 @@ The Application Runs on **localhost:3000**
 
 #### URL
 
-The application has just one url https://hp-api.onrender.com/ which ties to *Cart* Component
+A JSON-based API for getting information on Harry Potter characters and spells.
+
+API is hosted at https://hp-api.onrender.com/
 
 ## Resources
 
